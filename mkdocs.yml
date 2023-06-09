@@ -1,0 +1,6 @@
+site_name: Belajar Datsci by Ristek DSA
+theme:
+  name: material
+  features:
+    # - navigation.tabs
+    # - navigation.sections
